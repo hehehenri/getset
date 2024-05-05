@@ -3,8 +3,8 @@
 version = 3
 
 [[package]]
-name = "ezaccess"
-version = "0.1.0"
+name = "getset"
+version = "0.0.1"
 dependencies = [
  "quote",
  "syn",
