@@ -65,7 +65,7 @@ struct SkippedFieldsStruct {
 }
 
 // INFO: if there was already getters implemented for the skipped
-// fields,  implementations would conflict.
+// fields, implementations would conflict.
 #[allow(dead_code)]
 impl SkippedFieldsStruct {
     fn get_global_skipped_field() {}
